@@ -5,7 +5,7 @@
 시스템의 실시간 성능을 모니터링하는 도구
 > 현재 실행 중인 프로세스들의 목록, CPU 및 메모리 사용량 등을 실시간으로 표시함
 
-![image](https://github.com/kkongkkong-onion/open-source/assets/171305038/73a6e379-60ba-43a5-8de6-606fa0ab479a)
+![image](https://github.com/kkongkkong-onion/open-source/assets/171305038/03875a35-42a4-4d5a-9b12-8907469e7ec4)
 
 <주요 옵션>
 * -d SECONDS : 화면 갱신 주기를 초 단위로 설정함
